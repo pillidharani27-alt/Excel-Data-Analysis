@@ -11,17 +11,17 @@ An interactive Excel dashboard showcasing business KPIs, data cleaning, trend an
 
 - 🛠️ Skills Used
 
-Excel (Advanced)
+-Excel (Advanced)
 
-Pivot Tables & Pivot Charts
+-Pivot Tables & Pivot Charts
 
-Data Cleaning
+-Data Cleaning
 
-Conditional Formatting
+-Conditional Formatting
 
-Functions & Formulas
+-Functions & Formulas
 
-Interactive Dashboard Design
+-Interactive Dashboard Design
 
 🔗 Connect With Me
 
