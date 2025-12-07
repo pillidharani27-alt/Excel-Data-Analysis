@@ -25,6 +25,5 @@ An interactive Excel dashboard showcasing business KPIs, data cleaning, trend an
 
 🔗 Connect With Me
 
-LinkedIn: https:![linkedin](www.linkedin.com/in/pillidharani)
-
-GitHub: https:![gitprofile](github.com/pillidharani27-alt)
+- 🔗 GitHub: [pillidharani27-alt](https://github.com/pillidharani27-alt)
+- 🔗 LinkedIn:[LinkedIn Profile](https://www.linkedin.com/in/pillidharani)
